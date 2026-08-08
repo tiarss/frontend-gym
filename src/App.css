@@ -1,0 +1,14 @@
+.container {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(2 ,1fr);
+    gap: 20px;
+}
+
+.button-container {
+    margin: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
