@@ -665,43 +665,6 @@ Kalau trainer hanya lihat & guide = super valuable
 
 ---
 
-## 🎨 Meme Image Resources
-
-### Free Image Sources untuk "No AI Rule" Memes
-
-**Rekomendasi Images:**
-
-| Meme Type | Best Source | Search Term | Use Case |
-|-----------|------------|-------------|----------|
-| **Gym/Trainer** | [Unsplash](https://unsplash.com) | "personal trainer coaching" | AI sebagai trainer, bukan worker |
-| **Brain/Learning** | [Unsplash](https://unsplash.com) | "brain power" "learning" | Struggle = brain growth |
-| **Manual Work** | [Pixabay](https://pixabay.com) | "manual work" "hands on" | Actual coding effort |
-| **Shortcut vs Path** | [Pexels](https://pexels.com) | "path" "journey" "hiking" | Long-term vs quick fix |
-| **Before/After** | [Unsplash](https://unsplash.com) | "transformation" "progress" | Struggle journey visualization |
-| **Copy-Paste Fail** | [Unsplash](https://unsplash.com) | "confused person" "lost" | Cheating detection humor |
-| **Growth Mindset** | [Pixabay](https://pixabay.com) | "mountain climbing" "success" | Progressive overload |
-
-**Usage Tips:**
-
-```markdown
-![Gym Trainer Visual]
-(https://unsplash.com/photos/XXXXX)
-Caption: "AI guides, doesn't code for you"
-
-![Brain Activity]
-(https://unsplash.com/photos/XXXXX)
-Caption: "Your brain needs the workout, not AI"
-```
-
-**License Note:** Semua link adalah dari free stock photo sites:
-- ✅ Unsplash - Free, no attribution required
-- ✅ Pixabay - Free, no attribution required
-- ✅ Pexels - Free, no attribution required
-
-Semua legal untuk GitHub repo! 🎯
-
----
-
 ## 📚 Resources
 
 ### Level 1 References
